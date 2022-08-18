@@ -1,0 +1,46 @@
+.my-navbar {
+  background-color: #3a3f40;
+  color: #5acdf1;
+}
+
+.my-active-nav-link {
+  color: black !important;
+}
+.my-nav-link {
+  color: white !important;
+}
+
+.my-active-nav-link :hover {
+  color: #62c6d8 !important;
+  background-color: #3a3f40;
+  cursor: pointer;
+}
+
+.hello-title {
+  padding-right: 20px;
+  margin: 0;
+  font-size: 1.4rem;
+  cursor: context-menu;
+}
+
+.activeLink {
+  border-bottom: 1px solid #62c6d8 !important;
+  color: white !important;
+}
+
+.nav-bar-title {
+  margin-left: 5px;
+}
+
+.all-title {
+  color: black !important;
+}
+
+.sign-btn {
+  display: flex !important;
+  align-items: center;
+}
+
+.btn-container {
+  margin-left: 5px;
+}

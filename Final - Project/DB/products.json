@@ -1,0 +1,146 @@
+[{
+  "_id": {
+    "$oid": "62fbb47e8af91388ba8d7a3a"
+  },
+  "name": "iPhone 13 Pro Max",
+  "description": "The new Iphone 13 Pro max",
+  "category": "Phones",
+  "price": 1200,
+  "phone": "0548132248",
+  "creatorName": "Ariel Elazam",
+  "creatorAddress": "Ha'alon 216, Kfar tapuach",
+  "image": "https://fdn.gsmarena.com/imgroot/news/21/09/iphone-13-pro-announced/colors/-600/gsmarena_006.jpg",
+  "userID": {
+    "$oid": "62b474fb70a31b052543a955"
+  },
+  "likes": [
+    "62b4753570a31b052543a95b",
+    "62b4758b70a31b052543a969",
+    "62b474fb70a31b052543a955"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660662910711"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fbb4a58af91388ba8d7a43"
+  },
+  "name": "Mac Book Pro",
+  "description": "The new Mac Book Pro",
+  "category": "Computers",
+  "price": 1200,
+  "phone": "0548132248",
+  "creatorName": "Ariel Elazam",
+  "creatorAddress": "Ha'alon 216, Kfar tapuach",
+  "image": "https://www.idigital.co.il/files/Mac/Mac%20Nov%202020/MacBook_Pro_13-in_Space_Gray_with_M1_chip_2-up_.jpg",
+  "userID": {
+    "$oid": "62b474fb70a31b052543a955"
+  },
+  "likes": [
+    "62b4758b70a31b052543a969"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660662949843"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fbb5138af91388ba8d7a57"
+  },
+  "name": "Galaxy S20",
+  "description": "The new Galaxy S20",
+  "category": "Phones",
+  "price": 1000,
+  "phone": "0524418745",
+  "creatorName": "Moshe Cohen",
+  "creatorAddress": "Herzel 31, Haifa",
+  "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_zoom/MQE54_Z_P_8806090335723_2.png",
+  "userID": {
+    "$oid": "62b4753570a31b052543a95b"
+  },
+  "likes": [
+    "62b4758b70a31b052543a969",
+    "62b474fb70a31b052543a955"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660663059763"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fbb56d8af91388ba8d7a5a"
+  },
+  "name": "Galaxy Charger",
+  "description": "Strong Galaxy charger",
+  "category": "Accessories",
+  "price": 50,
+  "phone": "0524418745",
+  "creatorName": "Moshe Cohen",
+  "creatorAddress": "Herzel 31, Haifa",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbrlVJKsffrQplO7KKPApKVc48teSuuwvLXYmwqfxpxf-8bMXD7ey-hRQOIKQOFQaRBY&usqp=CAU",
+  "userID": {
+    "$oid": "62b4753570a31b052543a95b"
+  },
+  "likes": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660663149307"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fbb5fb8af91388ba8d7a6b"
+  },
+  "name": "HP Pavilion computer",
+  "description": "HP Pavilion x360",
+  "category": "Computers",
+  "price": 780,
+  "phone": "0501897465",
+  "creatorName": "Dani Levi",
+  "creatorAddress": "Jabutinsky 51, Be'er Sheva",
+  "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c07093639.png",
+  "userID": {
+    "$oid": "62b4758b70a31b052543a969"
+  },
+  "likes": [
+    "62b474fb70a31b052543a955"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660663291037"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fbb61d8af91388ba8d7a6e"
+  },
+  "name": "iPhone charger",
+  "description": "Strong iPhone charger",
+  "category": "Accessories",
+  "price": 120,
+  "phone": "0501897465",
+  "creatorName": "Dani Levi",
+  "creatorAddress": "Jabutinsky 51, Be'er Sheva",
+  "image": "https://i0.wp.com/givtmobile.com/wp-content/uploads/2021/03/iphone6.jpg?fit=1000%2C1000&ssl=1",
+  "userID": {
+    "$oid": "62b4758b70a31b052543a969"
+  },
+  "likes": [
+    "62b4753570a31b052543a95b"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660663325366"
+    }
+  },
+  "__v": 0
+}]

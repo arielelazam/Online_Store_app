@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "62b474fb70a31b052543a955"
+  },
+  "name": "Ariel Elazam",
+  "email": "arielelazam123@gmail.com",
+  "password": "$2a$10$zrbbMJiuqPZBMAWTpB/kd.iuOjxX0HHS7f/EezJNdX2Ee0DJezUai",
+  "address": "Ha'alon 216, Kfar tapuach",
+  "phone": "0548132248",
+  "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655993595761"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62b4753570a31b052543a95b"
+  },
+  "name": "Moshe Cohen",
+  "email": "moshe123@gmail.com",
+  "password": "$2a$10$uR9T0YUY9.PLVqSNi6ygxOwbAyNPgB6HCswrYyiqgTEPOai2b5J0W",
+  "address": "Herzel 31, Haifa",
+  "phone": "0524418745",
+  "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655993653005"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62b4758b70a31b052543a969"
+  },
+  "name": "Dani Levi",
+  "email": "dani123@gmail.com",
+  "password": "$2a$10$T7EX9o8AOT3MFT4e5hD41Omh884WGeMVflfBHGONmBzK3U9oa0Nxm",
+  "address": "Jabutinsky 51, Be'er Sheva",
+  "phone": "0501897465",
+  "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655993739195"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62b80674da384e3723807836"
+  },
+  "name": "Ami Hanya",
+  "email": "ami@closeapp.co.il",
+  "password": "$2a$10$z2xk30UulTogcC9x51jRvuoyE9/kuBH.4Rjoez4w.9xBwsNLa8wda",
+  "address": "Kfar Tapuah",
+  "phone": "0546702328",
+  "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656227444659"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fe0de106ea7f96547761b3"
+  },
+  "name": "dror lrvi",
+  "email": "dror123@gmail.com",
+  "password": "$2a$10$b.MqH59TvPyvAijTwec/fOunM54tTlXju5o7/5Tk.XPMoY0t.taeK",
+  "address": "bla bla 213 vla",
+  "phone": "0521498745",
+  "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660816865289"
+    }
+  },
+  "__v": 0
+}]

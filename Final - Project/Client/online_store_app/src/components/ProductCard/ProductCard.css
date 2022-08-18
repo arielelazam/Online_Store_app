@@ -1,0 +1,17 @@
+.font-bolder {
+  font-weight: bold;
+}
+
+.btns {
+  margin-right: 5%;
+}
+
+.product-info {
+  margin-left: 3px;
+}
+
+.present-like-icon {
+  float: right;
+  cursor: default;
+  text-align: center;
+}

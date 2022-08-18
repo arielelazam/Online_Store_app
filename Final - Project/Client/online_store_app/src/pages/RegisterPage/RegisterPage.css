@@ -1,0 +1,16 @@
+.form-row {
+  padding: 5px;
+}
+
+.register-row {
+  padding-bottom: 20px;
+}
+
+.errMsg {
+  color: red;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0 !important;
+}

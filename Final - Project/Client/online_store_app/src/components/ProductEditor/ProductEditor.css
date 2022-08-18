@@ -1,0 +1,14 @@
+.popup-wrapper {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: lightyellow;
+  border: solid black 1px;
+  padding: 2rem;
+}
+
+.my-btns-div {
+  display: flex;
+  justify-content: space-between;
+}

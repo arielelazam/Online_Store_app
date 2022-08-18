@@ -1,0 +1,11 @@
+.my-footer {
+  background-color: #3a3f40;
+  color: white;
+}
+
+.my-footer-div {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 100vw !important;
+}
